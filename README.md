@@ -1,4 +1,4 @@
-# non-invasive-reconnaissance
+# Non-Invasive Reconnaissance
 Scapy program which will allow you to do non-invasive reconnaissance on a list of remote networked devices. 
 
 The Program check if the IP address: 
